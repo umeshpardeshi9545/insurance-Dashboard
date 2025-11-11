@@ -1,4 +1,4 @@
-# insurance-Dashboard
+# Insurance-Dashboard
 
 # Problem Statement
 
